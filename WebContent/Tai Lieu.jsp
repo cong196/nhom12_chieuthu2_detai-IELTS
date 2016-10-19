@@ -176,7 +176,7 @@
 
       <div class="row">
         <div class="col-md-2">
-          <a id="link1" href="Xem tai lieu.jsp"> <figure>
+          <a id="link1" href="Xem Tai Lieu.jsp"> <figure>
         <img id="hinh1" src="images/sach3.jpg" class="img-rounded" align="bottom" width="100" height="100">
         <figcaption><h4><p id="ten1">Luật chính tả trong Tiếng Anh</p><h4></figcaption>
       </figure></a>
@@ -195,7 +195,7 @@
       <hr>
       <div class="row">
         <div class="col-md-2">
-          <a id="link2" href="Xem tai lieu.jsp"><figure>
+          <a id="link2" href="Xem Tai Lieu.jsp"><figure>
         <img id ="hinh2" src="images/sach4.jpg" class="img-rounded" align="bottom" width="100" height="100">
         <figcaption><h4><p id ="ten2">Cách viết bài luận bằng tiếng Anh</p><h4></figcaption>
       </figure></a>
@@ -214,7 +214,7 @@
       <hr>
       <div class="row">
         <div class="col-md-2">
-          <a id="link3" href="Xem tai lieu.jsp"><figure>
+          <a id="link3" href="Xem Tai Lieu.jsp"><figure>
         <img id ="hinh3" src="images/sach1.jpg" class="img-rounded" align="bottom" width="100" height="100">
         <figcaption><h4><p id="ten3">52 cấu trúc và cụm từ thông dụng trong Tiếng Anh</p><h4></figcaption>
       </figure></a>
